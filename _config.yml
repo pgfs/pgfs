@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "rtfm"
+title                    : "RTFM"
 title_separator          : "|"
-subtitle                 : "read the f'ing manual" # site tagline that appears below site title in masthead
+subtitle                 : "Read the f'ing manual" # site tagline that appears below site title in masthead
 name                     : "pgfs"
 description              : # "An amazing website."
 url                      : "https://pgfs.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
