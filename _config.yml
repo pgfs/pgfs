@@ -93,15 +93,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Sindre Hejberg Kentsrud"
   avatar           : "/assets/images/avatar_sk.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Sande, Norge"
+  email            : #"sindre.kentsrud@pg-flowsolutions.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+       url: mailto:sindre.kentsrud@pg-flowsolutions.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
