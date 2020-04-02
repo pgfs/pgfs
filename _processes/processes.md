@@ -1,6 +1,6 @@
 ---
 title: Processes
-layout: splash
+layout: single
 permalink: /processes/
 collection: processes
 author: false
