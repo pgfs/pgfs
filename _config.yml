@@ -94,9 +94,9 @@ analytics:
 author:
   name             : "Sindre Hejberg Kentsrud"
   avatar           : "/assets/images/avatar_sk.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Team lead, machining"
   location         : "Sande, Norge"
-  email            : #"sindre.kentsrud@pg-flowsolutions.com"
+  email            : "sindre.kentsrud@pg-flowsolutions.com"
   links:
     - label: "Email"
     - label: "Website"
