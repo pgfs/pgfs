@@ -1,10 +1,9 @@
 ---
 title: Processes
 layout: single
+classes: wide
 permalink: /processes/
 collection: processes
-author: false
-read_time: false
 toc: true
 toc_label: "Table of contents"
 toc_icon: "code-branch"
