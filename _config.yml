@@ -291,7 +291,7 @@ defaults:
       share: true
       related: true
 
- collections:
-    processes:
-      output: true
-      permalink: /:collection/:path/
+collections:
+  processes:
+    output: true
+    permalink: /:collection/:path/
