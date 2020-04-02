@@ -101,6 +101,7 @@ author:
     - label: "Email"
     - label: "Phone"
       icon: "fas fa-fw fa-phone"
+      url: "+47 920 72 699"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
