@@ -21,26 +21,26 @@ Sales
 Project  
 Engineering
 ### Inputs
-RFCE - Request for cost estimate
-RFTR - Request for technical review
-RFF - Request for fabrication
+RFCE - Request for cost estimate  
+RFTR - Request for technical review  
+RFF - Request for fabrication  
 ### Processes
-Planning
-Cutting
-Forming
-Machining
-Fit-up
-Welding
-Inspection
-External services
+Planning  
+Cutting  
+Forming  
+Machining  
+Fit-up  
+Welding  
+Inspection  
+External services  
 ### Outputs
-Cost estimate
-Technical review
-Fabricated assemblies
-Fabricated parts
-Documentation
+Cost estimate  
+Technical review  
+Fabricated assemblies  
+Fabricated parts  
+Documentation  
 ### Customers
-Sales
-Project
-Engineering
-Assembly
+Sales  
+Project  
+Engineering  
+Assembly  
