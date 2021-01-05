@@ -22,3 +22,7 @@ Input    | RFCE, RFTR, RFF
 Process  | Planning, Cutting, Forming, Machining, Fit-up, Welding, Verification, External services
 Output   | Cost estimate, Technical review, Fabricated assemblies, Fabricated parts, Fabrication documentation
 Customer | Sales, Project, Engineering, Assembly
+
+Supplier | Input | Process  | Output        | Customer
+---------|-------|----------|---------------|---------
+Sales<br>Project<br>Engineering    | RFCE<br>RFTR<br>RFF  | Planning<br>Cutting<br>Forming<br>Machining<br>Fit-up<br>Welding<br>Verification<br>External services | Cost Estimate<br>Technical review<br>Fabricated assemblies<br>Fabricated parts<br>Fabrication documentation | Sales<br>Project<br>Engineering<br>Assembly
