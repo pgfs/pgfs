@@ -13,7 +13,7 @@ header:
   overlay_image: /assets/images/processes/production-1.png
 excerpt: "Flow is our #1 consideration!"
 ---
-# Why should I care about processes?
+# Why should I care about processes??
 Are you experiencing the same challanges week after week? Are you missing information about what to do? Are you missing materials to get the job done? Are requirements always changing? Do you have problems with equipment always breaking down at the wrong time? These challanges and more are symptoms of a poorly designed process.
 
 # What is a process?
