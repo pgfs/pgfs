@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Processes"
     url: /processes/
   # - title: "About"
@@ -12,3 +10,24 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+processes:
+  - title: "Fabrication"
+    url: /processes/
+    children:
+      - title: "Planning"
+      url: /planning/
+      - title: "Cutting"
+      url: /cutting/
+      - title: "Forming"
+      url: /forming/
+      - title: "Machining"
+      url: /machining/
+      - title: "Fit-up"
+      url: /fitup/
+      - title: "Welding"
+      url: /welding/
+      - title: "Inspection"
+      url: /inspection/
+      - title "External services"
+      url: /externalservices/
