@@ -16,7 +16,7 @@ processes:
     url: /processes/
     children:
     - title: "Planning"
-  #    url: /planning/
+      url: /planning/
     - title: "Cutting"
   #    url: /cutting/
     - title: "Forming"
