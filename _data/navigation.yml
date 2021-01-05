@@ -16,18 +16,18 @@ processes:
     url: /processes/
     children:
       - title: "Planning"
-      url: /planning/
+  #    url: /planning/
       - title: "Cutting"
-      url: /cutting/
+  #    url: /cutting/
       - title: "Forming"
-      url: /forming/
+  #    url: /forming/
       - title: "Machining"
-      url: /machining/
+  #    url: /machining/
       - title: "Fit-up"
-      url: /fitup/
+  #    url: /fitup/
       - title: "Welding"
-      url: /welding/
+  #    url: /welding/
       - title: "Inspection"
-      url: /inspection/
+  #    url: /inspection/
       - title "External services"
-      url: /externalservices/
+  #    url: /externalservices/
