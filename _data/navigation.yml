@@ -15,19 +15,19 @@ processes:
   - title: "Fabrication"
     url: /processes/
     children:
-      - title: "Planning"
+    - title: "Planning"
   #    url: /planning/
-      - title: "Cutting"
+    - title: "Cutting"
   #    url: /cutting/
-      - title: "Forming"
+    - title: "Forming"
   #    url: /forming/
-      - title: "Machining"
+    - title: "Machining"
   #    url: /machining/
-      - title: "Fit-up"
+    - title: "Fit-up"
   #    url: /fitup/
-      - title: "Welding"
+    - title: "Welding"
   #    url: /welding/
-      - title: "Inspection"
+    - title: "Inspection"
   #    url: /inspection/
-      - title "External services"
+    - title "External services"
   #    url: /externalservices/
