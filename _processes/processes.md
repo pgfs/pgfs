@@ -13,16 +13,34 @@ header:
   overlay_image: /assets/images/processes/production-1.png
 excerpt: "Flow is our #1 consideration!"
 ---
-**What is a process?** A process is any activity or set of activities that use resources to transform inputs into outputs.
-{: .notice--info}
+# Fabrication process
 
-Supplier    | Input                        | Process           | Output                    | Customer
-------------|------------------------------|-------------------|---------------------------|------------
-Sales       | Request for cost estimate    | Planning          | Cost estimate             | Sales
-Project     | Request for technical review | Cutting           | Technical review          | Project
-Engineering | Request for fabrication      | Forming           | Fabricated assemblies     | Engineering
-            |                              | Machining         | Fabricated parts          | Assembly
-            |                              | Fit-up            | Fabrication documentation |
-            |                              | Welding           |                           |
-            |                              | Verification      |                           |
-            |                              | External services |                           |
+## SIPOC
+### Suppliers
+Sales  
+Project  
+Engineering
+### Inputs
+RFCE - Request for cost estimate
+RFTR - Request for technical review
+RFF - Request for fabrication
+### Processes
+Planning
+Cutting
+Forming
+Machining
+Fit-up
+Welding
+Inspection
+External services
+### Outputs
+Cost estimate
+Technical review
+Fabricated assemblies
+Fabricated parts
+Documentation
+### Customers
+Sales
+Project
+Engineering
+Assembly
