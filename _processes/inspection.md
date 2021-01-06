@@ -2,7 +2,7 @@
 title: Processes
 layout: single
 classes: wide
-permalink: /planning/
+permalink: /inspection/
 collection: processes
 toc: true
 toc_label: "Table of contents"
@@ -13,20 +13,34 @@ header:
   overlay_image: /assets/images/processes/production-1.png
 excerpt: "Flow is our #1 consideration!"
 ---
-# Planning process
+# Inspection process
 
 ## Suppliers
-| Sales | Project | Engineering |
-| :---- | :------ | :---------- |
-|                               |
+Project  
+Engineering  
+Planning  
+Cutting  
+Forming  
+Machining  
+Fit-up  
+Welding  
+External services  
 ## Inputs
-Fabrication packages  
-Client specifications  
-2D CAD
+Inspection packages  
+2D CAD  
 3D CAD  
-Budget    
+Cut parts  
+Formed parts  
+Machined parts  
+Machined assemblies  
+Machined sub-assemblies  
+Tacked assemblies  
+Tacked sub-assemblies  
+Welded assemblies  
+Welded sub-assemblies     
 ## Processes
-Review of documents    
+Review of documents  
+Preparation of inspection forms  
 ## Outputs
 MTL - Material takeoff list  
 WP - Work packages    
@@ -42,4 +56,3 @@ Machining
 Fit-up  
 Welding  
 Inspection  
-
