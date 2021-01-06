@@ -1,7 +1,6 @@
 ---
 title: Processes
 layout: single
-classes: wide
 permalink: /inspection/
 collection: processes
 toc: true

@@ -1,7 +1,6 @@
 ---
 title: Processes
 layout: single
-classes: wide
 permalink: /forming/
 collection: processes
 toc: true

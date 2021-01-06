@@ -1,7 +1,6 @@
 ---
 title: Processes
 layout: single
-classes: wide
 permalink: /planning/
 collection: processes
 toc: true
