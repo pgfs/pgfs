@@ -292,6 +292,7 @@ defaults:
       sidebar:
         nav: "processes"
 
+defaults:
   # _people
   - scope:
       path: ""
