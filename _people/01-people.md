@@ -1,7 +1,6 @@
 ---
 title: People
 layout: single
-classes: wide
 permalink: /people/
 collection: people
 toc: true
