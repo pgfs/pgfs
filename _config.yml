@@ -309,3 +309,8 @@ collections:
   processes:
     output: true
     permalink: /:collection/:path/
+
+collections:
+  people:
+    output: true
+    permalink: /:collection/:path/
