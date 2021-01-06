@@ -1,7 +1,6 @@
 ---
 title: Processes
 layout: single
-classes: wide
 permalink: /processes/
 collection: processes
 toc: true
