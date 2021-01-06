@@ -18,7 +18,7 @@ processes:
     - title: "Planning"
       url: /planning/
     - title: "Cutting"
-  #    url: /cutting/
+      url: /cutting/
     - title: "Forming"
   #    url: /forming/
     - title: "Machining"
