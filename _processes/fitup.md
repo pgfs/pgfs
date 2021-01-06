@@ -2,7 +2,7 @@
 title: Processes
 layout: single
 classes: wide
-permalink: /cutting/
+permalink: /fitup/
 collection: processes
 toc: true
 toc_label: "Table of contents"
@@ -13,29 +13,30 @@ header:
   overlay_image: /assets/images/processes/production-1.png
 excerpt: "Flow is our #1 consideration!"
 ---
-# Cutting process
+# Fit-up process
 
 ## Suppliers
 Planning  
-Supply chain  
-## Inputs
-Cutting packages  
-2D CAD  
-3D CAD  
-Stock materials    
-## Processes
-Review of documents  
-Programming  
-Setup  
-Cutting  
-Packing  
-Clean up    
-## Outputs
-Parts     
-## Customers
+Cutting   
 Forming  
 Machining  
-Fit-up  
 Welding  
-Assembly  
-Project   
+## Inputs
+Fit-up packages  
+2D CAD  
+3D CAD  
+Cut parts  
+Formed parts  
+Machined parts  
+Welded sub-assemblies  
+## Processes
+Review of documents  
+Setup  
+Fit-up    
+Packing  
+Clean up  
+## Outputs
+Tacked assemblies  
+Tacked sub-assemblies  
+## Customers
+Welding  

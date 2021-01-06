@@ -2,7 +2,7 @@
 title: Processes
 layout: single
 classes: wide
-permalink: /cutting/
+permalink: /machining/
 collection: processes
 toc: true
 toc_label: "Table of contents"
@@ -13,28 +13,31 @@ header:
   overlay_image: /assets/images/processes/production-1.png
 excerpt: "Flow is our #1 consideration!"
 ---
-# Cutting process
+# Machining process
 
 ## Suppliers
 Planning  
-Supply chain  
+Cutting   
+Welding  
 ## Inputs
-Cutting packages  
+Machining packages  
 2D CAD  
 3D CAD  
-Stock materials    
+Cut parts  
+Welded assemblies  
+Welded sub-assemblies  
 ## Processes
 Review of documents  
 Programming  
 Setup  
-Cutting  
+Machining  
 Packing  
 Clean up    
 ## Outputs
-Parts     
+Machined parts  
+Machined assemblies  
+Machined sub-assemblies  
 ## Customers
-Forming  
-Machining  
 Fit-up  
 Welding  
 Assembly  
