@@ -13,7 +13,7 @@ header:
   overlay_image: /assets/images/processes/production-1.png
 excerpt: "Flow is our #1 consideration!"
 ---
-# Planning process
+# Cutting process
 
 ## Suppliers
 Planning  
