@@ -16,29 +16,29 @@ excerpt: "Flow is our #1 consideration!"
 # Planning process
 
 ## Suppliers
-Sales
-Project
+Sales  
+Project  
 Engineering
 ## Inputs
-Fabrication packages
-Client specifications
-2D CAD
-3D CAD
+Fabrication packages  
+Client specifications  
+2D CAD  
+3D CAD  
 Budget
 ## Processes
 Review of documents
 ## Outputs
-MTL - Material takeoff list
+MTL - Material takeoff list  
 WP - Work packages
 ## Customers
-Sales
-Engineering
-Project
-Supply chain
-Assembly
-Cutting
-Forming
-Machining
-Fit-up
-Welding
+Sales  
+Engineering  
+Project  
+Supply chain  
+Assembly  
+Cutting  
+Forming  
+Machining  
+Fit-up  
+Welding  
 Inspection
