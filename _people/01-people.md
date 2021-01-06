@@ -16,8 +16,9 @@ excerpt: "Flow is our #1 consideration!"
 # People
 
 ## Planning
+
 | Role                            	| Name               	| Phone          	| E-mail                               	|
-|———————————	|———————	|-—————	|—————————————	|
+|---------------------------------	|--------------------	|----------------	|--------------------------------------	|
 | Responsible fabrication planner 	| Sindre H. Kentsrud 	| +47 920 72 699 	| sindre.kentsrud@pg-flowsolutions.com 	|
 | Fabrication planner             	| Daniel Dyakov      	|                	| daniel.dyakov@pg-flowsolutions.com   	|
 ## Cutting
