@@ -3,9 +3,6 @@ title: People
 layout: single
 permalink: /people/
 collection: people
-toc: true
-toc_label: "Table of contents"
-toc_icon: "code-branch"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
