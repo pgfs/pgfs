@@ -292,7 +292,6 @@ defaults:
       sidebar:
         nav: "processes"
 
-defaults:
   # _roles
   - scope:
       path: ""

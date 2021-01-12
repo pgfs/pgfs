@@ -12,48 +12,46 @@ header:
   overlay_image: /assets/images/processes/production-1.png
 excerpt: "Flow is our #1 consideration!"
 ---
-# Roles
+# Planning
 
-## Planning
+## Vice president fabrication   
 
-### Vice president fabrication   
+## Responsible fabrication planner
 
-### Responsible welding coordinator
+## Fabrication planner
 
-### Responsible fabrication planner
+# Cutting
 
-### Fabrication planner
+## Responsible cutting operator
 
-## Cutting
+## Cutting operator
 
-### Responsible cutting operator
+# Forming
 
-### Cutting operator
+## Responsible forming operator
 
-## Forming
+## Forming operator  
 
-### Responsible forming operator
+# Machining
 
-### Forming operator  
+## Responsible machining operator
 
-## Machining
+## Machining operator
 
-### Responsible machining operator
+## Machining apprentice
 
-### Machining operator
+# Fit-up
 
-### Machining apprentice
+## Responsible fit-up operator
 
-## Fit-up
+## Fit-up operator
 
-### Responsible fit-up operator
+# Welding
 
-### Fit-up operator
+## Responsible welding coordinator
 
-## Welding
+## Welding operator
 
-### Welding operator
+# Inspection
 
-## Inspection
-
-### Responsible inspection operator
+## Responsible inspection operator
