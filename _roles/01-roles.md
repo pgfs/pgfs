@@ -3,7 +3,7 @@ title: People
 layout: single
 classes: wide
 permalink: /roles/
-collection: people
+collection: roles
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"s
