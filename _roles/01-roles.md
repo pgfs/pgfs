@@ -1,5 +1,5 @@
 ---
-title: People
+title: Roles
 layout: single
 classes: wide
 permalink: /roles/
