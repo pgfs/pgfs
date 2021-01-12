@@ -16,7 +16,7 @@ excerpt: "Responsible fit-up operator"
 RFUO - Responsible fit-up operator
 
 # Reports to
-VFP - Vice president fabrication
+VPF - Vice president fabrication
 
 # Job overview
 

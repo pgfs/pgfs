@@ -16,7 +16,7 @@ excerpt: "Responsible welding coordinator"
 RWC - Responsible welding coordinator
 
 # Reports to
-VFP - Vice president fabrication
+VPF - Vice president fabrication
 
 # Job overview
 
