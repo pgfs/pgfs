@@ -1,9 +1,11 @@
 ---
 title: Roles
 layout: single
-classes: wide
 permalink: /roles/
 collection: roles
+toc: true
+toc_label: "Table of contents"
+toc_icon: "user-cog"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
