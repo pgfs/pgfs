@@ -12,7 +12,11 @@ header:
   overlay_image: /assets/images/processes/production-1.png
 excerpt: "Responsible inspection operator"
 ---
+# Job title
+RIO - Responsible inspection operator
+
 # Reports to
+HSEQM - Health, safety, environment & quality manager
 
 # Job overview
 

@@ -12,7 +12,11 @@ header:
   overlay_image: /assets/images/processes/production-1.png
 excerpt: "Responsible welding coordinator"
 ---
+# Job title
+RWC - Responsible welding coordinator
+
 # Reports to
+VFP - Vice president fabrication
 
 # Job overview
 
