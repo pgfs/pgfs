@@ -292,6 +292,21 @@ defaults:
       sidebar:
         nav: "processes"
 
+defaults:
+  # _roles
+  - scope:
+      path: ""
+      type: roles
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: # true
+      share: false
+      related: false
+      sidebar:
+        nav: "roles"
+
 collections:
   processes:
     output: true
