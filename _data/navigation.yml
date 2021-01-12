@@ -35,44 +35,50 @@ processes:
   #    url: /externalservices/
 
 roles:
-  - title: "Roles"
-    url: /roles/
-    children:
-    - title: "Planning"
-      children:
-        - title: "Vice president fabrication"
-          url: /vpf/
-        - title: "Responsible fabrication planner"
-          url: /rfp/
-        - title: "Responsible fabrication buyer"
-          url: /rfb/
-    - title: "Cutting"
-        - title: "Responsible cutting operator"
-          url: /rco/
-        - title: "Cutting operator"
-          url: /co/
-    - title: "Forming"
-        - title: "Responsible forming operator"
-          url: /rfo/
-        - title: "Forming operator"
-          url: /fo/
-    - title: "Machining"
-        - title: "Responsible machining operator"
-          url: /rmo/
-        - title: "Machining operator"
-          url: /mo/
-        - title: "Machining apprentice"
-          url: /ma/
-    - title: "Fit-up"
-        - title: "Responsible fit-up operator"
-          url: /rfuo/
-        - title: "Fit-up operator"
-          url: /fuo/
-    - title: "Welding"
-        - title: "Responsible welding coordinator"
-          url: /rwc/
-        - title: "Welding operator"
-          url: /wo/
-    - title: "Inspection"
-        - title: "Responsible inspection operator"
-          url: /rio/
+- title: "Roles"
+  url: /roles/
+  children:
+  - title: "Planning"
+  children:
+  - title: "Vice president fabrication"
+    url: /vpf/
+  - title: "Responsible fabrication planner"
+    url: /rfp/
+  - title: "Responsible fabrication buyer"
+    url: /rfb/
+  - title: "Cutting"
+  children:
+  - title: "Responsible cutting operator"
+    url: /rco/
+  - title: "Cutting operator"
+    url: /co/
+  - title: "Forming"
+  children:
+  - title: "Responsible forming operator"
+    url: /rfo/
+  - title: "Forming operator"
+    url: /fo/
+  - title: "Machining"
+  children:
+  - title: "Responsible machining operator"
+    url: /rmo/
+  - title: "Machining operator"
+    url: /mo/
+  - title: "Machining apprentice"
+    url: /ma/
+  - title: "Fit-up"
+  children:
+  - title: "Responsible fit-up operator"
+    url: /rfuo/
+  - title: "Fit-up operator"
+    url: /fuo/
+  - title: "Welding"
+  children:
+  - title: "Responsible welding coordinator"
+    url: /rwc/
+  - title: "Welding operator"
+    url: /wo/
+  - title: "Inspection"
+  children:
+  - title: "Responsible inspection operator"
+    url: /rio/
