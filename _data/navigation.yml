@@ -2,8 +2,8 @@
 main:
   - title: "Processes"
     url: /processes/
-  - title: "People"
-    url: /people/
+  - title: "Roles"
+    url: /roles/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

@@ -296,6 +296,6 @@ collections:
   processes:
     output: true
     permalink: /:collection/:path/
-  people:
+  roles:
     output: true
     permalink: /:collection/:path/
