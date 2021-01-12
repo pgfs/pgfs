@@ -56,7 +56,7 @@ excerpt: "Flow is our #1 consideration!"
 
 | Role | Name | Phone | E-mail |  
 |-|-|-|-|  
-| Responsible welding operator | Thomas Gunnestad | +47 465 65 052 | n/a |  
+| Welding operator | Thomas Gunnestad | +47 465 65 052 | n/a |  
 | Welding operator | Tomasz J. Trawinski | +47 465 65 257 | n/a |  
 | Welding operator | Brede Gulbrandsen | n/a | n/a |  
 | On-call welding operator | Per Mathisen | n/a | n/a |  
