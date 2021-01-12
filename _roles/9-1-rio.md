@@ -23,5 +23,8 @@ HSEQM - Health, safety, environment & quality manager
 # Authorities
 
 # Responsibilities and duties
+ * Inspection and testing before welding in acc. with ISO 3834
+ * Inspection and testing during welding in acc. with ISO 3834
+ * Inspection and testing after welding in acc. with ISO 3834
 
 # Qualifications
