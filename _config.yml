@@ -305,6 +305,20 @@ defaults:
       related: false
       sidebar:
         nav: "roles"
+  
+  # _tools
+  - scope:
+      path: ""
+      type: tools
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: # true
+      share: false
+      related: false
+      sidebar:
+        nav: "roles"
 
 collections:
   processes:
