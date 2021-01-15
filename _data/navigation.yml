@@ -4,6 +4,8 @@ main:
     url: /processes/
   - title: "Roles"
     url: /roles/
+  - title: "Tools"
+    url: /tools/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
